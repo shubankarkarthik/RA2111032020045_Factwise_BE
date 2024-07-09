@@ -12,5 +12,6 @@ def maxScore(cardPoints,k):
         
     return max_sum
 
-print(maxScore([1,2,3,4,5,6,1],3))
+print(maxScore([1,2,3,4,5,6,1],3)) 
 print(maxScore([2,2,2],2))
+print(maxScore({9,7,7,9,7,7,9],7))
